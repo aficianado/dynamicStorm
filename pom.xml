@@ -21,7 +21,7 @@
         <azure.servicebus.version>2.0.0</azure.servicebus.version>
         <storm.eventhubs.version>2.0.0</storm.eventhubs.version>
         <log4j.version>2.7</log4j.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <mockito.version>2.18.3</mockito.version>
         <assertj.version>3.8.0</assertj.version>
     </properties>
